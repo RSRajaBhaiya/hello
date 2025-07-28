@@ -1,0 +1,32 @@
+/* .header-nav-bar{ width: 100%;}
+.nav-bar-box{height: 43px; margin: 10px 20px; background-color: rgb(195, 205, 202);}
+.padd-5{padding: 5px;}
+.nav-bar-h{height: 43px;}
+.nav-bar ul{height: 43px;}
+.nav-bar ul li{list-style: none;height: 43px;}
+.ml-20{margin-left: 25px;margin-right: 20px;}
+.Search-bar{width: 300px;border: 2px solid gray;} */
+.container-nav{width: 1440px;height: 64px;overflow: hidden;margin: auto;display: flex;}
+.Logo{height: 63px;width: 250px;background-color: transparent;}
+.a-logo{height: 63px;}
+.logo-img{height: 63px;}
+.Search{height: 63px;width: 650px;}
+.search-bar{border: 1px solid rgb(124, 81, 25); margin-top: 10px;height: 43px;border-radius: 5px;background-color: rgba(208, 230, 223, 0.608);cursor: pointer;}
+.inp-search{width: 95%;outline: none;border: none;background-color: transparent;}
+.lab-search{margin-top: 9px;cursor: pointer;}
+.buttons{height: 63px;width: 550px;}
+.btn-row{display: flex;justify-content:space-evenly;}
+.btn{padding: auto;gap: 10px;margin: 8px;}
+.h-15 {height: 20px;margin-bottom: 4px;}
+.h-20 {height: 25px;margin-bottom: 4px;}
+.btn span{padding-left: 10px;font-size: 20px;}
+.mb-7{margin-bottom: 7px;}
+.login-hover:hover{background-color: aquamarine;}
+.login-hover:hover .hover-login{transform: rotateX('90deg');}
+/* hero section */
+
+
+
+
+
+
